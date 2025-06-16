@@ -42,7 +42,7 @@ backendtest/
 │   │   │   └── com/
 │   │   │       └── example/
 │   │   │           └── backendtest/
-│   │   │               ├── MyBackendAppApplication.java
+│   │   │               ├── BackendtestApplication.java
 │   │   │               ├── controller/
 │   │   │               │   └── TransactionController.java  
 │   │   │               ├── model/
