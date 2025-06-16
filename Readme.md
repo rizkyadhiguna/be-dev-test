@@ -74,7 +74,7 @@ Before you begin, ensure you have the following installed:
 
 ### Building the Project
 
-Navigate to the root directory of the project (`my-backend-app`) in your terminal and run the Maven clean and install command:
+Navigate to the root directory of the project (`backendtest`) in your terminal and run the Maven clean and install command:
 
 ```bash
 mvn clean install
@@ -113,7 +113,7 @@ This project uses H2 Database as an in-memory database. This means:
 
 ### You can access the H2 database console to view the data:
 
-URL: http://localhost:8080/h2-console
-JDBC URL: jdbc:h2:mem:mydb
-User Name: sa
-Password: (leave blank)
+- URL: http://localhost:8080/h2-console
+- JDBC URL: jdbc:h2:mem:mydb
+- User Name: sa
+- Password: (leave blank)
